@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+h1{
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+#ques1{
+    margin-left: 10px;
+    color: black;
+    font-weight: bold;
+}
+#ans1{
+    margin-left: 10px;
+    color: rgb(74, 231, 252);
+    font-weight: bold;
+}
